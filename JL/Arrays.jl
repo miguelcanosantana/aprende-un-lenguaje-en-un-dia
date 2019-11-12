@@ -14,7 +14,7 @@ currentNumber = 0
 for counter = 1:length(B)
     global currentNumber = B[counter]-1
 
-    if currentNumber == 0 # So that it does not give '0' for currentNumber value '1', which would give an error.
+    if currentNumber == 0 # Si currentNumber = 1 este if prohibe que el resultado de 0, ya que daría error.
         currentNumber = 1
     end
 
