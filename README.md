@@ -5,7 +5,7 @@
 
 ## Lenguaje de programación
 
-Julia
+![alt text](http://url/to/img.png)
 
 [De estos posibles lenguajes](https://github.com/miguelcanosantana/aprende-un-lenguaje-en-un-dia/blob/master/lenguajes_de_programacion.pdf)
 
