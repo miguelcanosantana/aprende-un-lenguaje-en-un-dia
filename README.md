@@ -12,11 +12,13 @@
 ## Ejercicios
 
 *[HolaMundo](https://github.com/miguelcanosantana/aprende-un-lenguaje-en-un-dia/blob/master/JL/HolaMundo.jl)
+![Foto del Hola Mundo](https://github.com/miguelcanosantana/aprende-un-lenguaje-en-un-dia/blob/master/Imagenes/helloWorld.png)
 
 *[Pirámide](https://github.com/miguelcanosantana/aprende-un-lenguaje-en-un-dia/blob/master/JL/Piramide.jl)
+![Foto del ejercicio de pirámide](https://github.com/miguelcanosantana/aprende-un-lenguaje-en-un-dia/blob/master/Imagenes/pyramid.png)
 
 *[Arrays](https://github.com/miguelcanosantana/aprende-un-lenguaje-en-un-dia/blob/master/JL/Arrays.jl)
-
+![Foto del ejercicio de Array](https://github.com/miguelcanosantana/aprende-un-lenguaje-en-un-dia/blob/master/Imagenes/arrays.png)
 
 ## Presentación de Julia
 [Enlace a Genial.ly](https://view.genial.ly/5dca6d9ba502df0f78ab1c3b/presentation-julia)
